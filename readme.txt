@@ -1,5 +1,5 @@
 © ShaiqKar | Css Custom Scrollbar Licensed under GPU
-/*https://github.com/shaiqkar/CSS-Custom-ScrollBar*/
+https://github.com/shaiqkar/CSS-Custom-ScrollBar
 
 USAGE:::::::::::::::::
 
