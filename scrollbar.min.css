@@ -1,0 +1,22 @@
+/*© ShaiqKar || Licensed under GPU*/
+/*https://github.com/shaiqkar/CSS-Custom-ScrollBar*/
+
+
+::-webkit-scrollbar {
+
+  width: 8px;                 /*-The Width of the total scrollbar-*/
+}
+
+::-webkit-scrollbar-thumb {   /*-Thum means the slider-*/
+
+  border-radius: 10px;
+  background-color: rgb(255,69,0);  /*-Change slider color here-*/
+  box-shadow: inset 0 0 6px rgba(0, 0, .1);
+}
+
+::-webkit-scrollbar-track {     /*-The background or track of slider/thumb -*/
+
+  border-radius: 10px;
+  background-color: #fff;        /*-Change scrollbar background color here-*/
+  box-shadow: 0 0 6px rgba(0, 0, .3);
+}
